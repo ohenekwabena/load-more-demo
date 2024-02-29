@@ -54,6 +54,7 @@ const CurrentImg = styled.img`
   object-fit: cover;
   overflow: hidden;
   transition: transform 200ms ease-in;
+
   &:hover {
     transform: scale(1.1);
   }
