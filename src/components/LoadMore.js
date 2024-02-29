@@ -30,7 +30,7 @@ function LoadMore() {
     <Wrapper>
       <ImageGrid data={data} />
       <Button onClick={loadMoreData} disabled={disable}>
-        Load More
+        {disable ? "Limit reached" : "Load More"}
       </Button>
     </Wrapper>
   );
