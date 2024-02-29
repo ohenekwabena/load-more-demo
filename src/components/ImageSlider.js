@@ -10,12 +10,12 @@ function ImageSlider({ images, price, name }) {
   return (
     <div>
       <Wrapper>
-        {images?.length
-          ? images.map(
-              (image, index) =>
-                image && <CurrentImg key={image} alt={name} src={image} show={currentSlide === index ? 1 : 0} />
-            )
-          : undefined}
+        <ImageWrapper>
+          {images?.map(
+            (image, index) =>
+              image && <CurrentImg key={image} alt={name} src={image} show={currentSlide === index ? 1 : 0} />
+          )}
+        </ImageWrapper>
         <IndicatorWrapper>
           {images?.map((_, index) => (
             <Indicator
@@ -42,12 +42,21 @@ const Wrapper = styled.div`
   align-items: center;
 `;
 
-const CurrentImg = styled.img`
-  display: ${({ show }) => (show ? "block" : "none")};
+const ImageWrapper = styled.div`
   border-radius: 0.5rem;
   box-shadow: 0px 0px 7px #666;
+  overflow: hidden;
+`;
+
+const CurrentImg = styled.img`
+  display: ${({ show }) => (show ? "block" : "none")};
   width: 100%;
   object-fit: cover;
+  overflow: hidden;
+  transition: transform 200ms ease-in;
+  &:hover {
+    transform: scale(1.1);
+  }
 `;
 
 const IndicatorWrapper = styled.span`
