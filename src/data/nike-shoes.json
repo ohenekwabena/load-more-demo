@@ -110,13 +110,6 @@
     ]
   },
   {
-    "ProductName": "Nike Free Metcon 3",
-    "ProductID": "CJ0861-017",
-    "SalePrice": 9995,
-    "Description": "The Nike Free Metcon 3 combines Nike Free flexibility around the forefoot with Metcon stability in the heel to help you get the most out of your training session.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Zoom Pegasus Turbo 2",
     "ProductID": "AT8242-009",
     "SalePrice": 15995,
@@ -325,13 +318,6 @@
     ]
   },
   {
-    "ProductName": "Nike SB Bruin High",
-    "ProductID": "923112-001",
-    "SalePrice": 5597,
-    "Description": "The first Nike SB shoe designed specifically for women, the Nike SB Bruin High is built for exceptional comfort and board control. With classic Bruin design lines and details, this is a fresh take on a time-honoured shoe.",
-    "Images": ""
-  },
-  {
     "ProductName": "Air Jordan XXXIV PF",
     "ProductID": "BQ3381-600",
     "SalePrice": 14995,
@@ -441,10 +427,7 @@
     "SalePrice": 2495,
     "Description": "Featuring Revive Foam, a super-soft foam designed to help you relax and recharge, the unrelenting comfort of the Nike Offcourt Slide is sensational. The innovative dual-layered foam and soft jersey lining on the strap ensure a gratifying full-foot experience. The iconic Air Force 1 pivot circle outsole and block lettering on the strap casually nod to heritage hoops.",
     "Images": [
-      "https://static.nike.com/a/images/t_PDP_1728_v1/bf29b8a2-b178-41dd-8bf5-113b6f838da6/offcourt-slide-kJDhS7.jpg",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/cfcdfdf1-03d7-499f-81cc-f38ac4769f6c/offcourt-slide-kJDhS7.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/b9ec7692-65d0-4e06-af50-0a0c3a8429d6/offcourt-slide-kJDhS7.jpg",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/a5d1f97f-f164-4d14-8f31-e324c230b3d9/offcourt-slide-kJDhS7.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/a1eff022-927c-4ea9-a1fd-c3bac6465df7/offcourt-slide-kJDhS7.jpg"
     ]
   },
@@ -463,13 +446,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-75218fc8-df06-4749-9cb5-4156aa8b9004/react-phantom-run-flyknit-2-running-shoe-tW5NcL.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-91fe3caa-ff78-46d4-be12-e330edff0b31/react-phantom-run-flyknit-2-running-shoe-tW5NcL.jpg"
     ]
-  },
-  {
-    "ProductName": "Jordan Break",
-    "ProductID": "AR6374-402",
-    "SalePrice": 1995,
-    "Description": "Featuring a fixed strap over the top of the foot, the Jordan Break Slide features durable synthetic leather and lightweight foam cushioning for underfoot comfort.",
-    "Images": ""
   },
   {
     "ProductName": "LeBron 7 QS",
@@ -556,13 +532,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Force 1 '07 LV8",
-    "ProductID": "CD0888-002",
-    "SalePrice": 7595,
-    "Description": "The Nike Air Force 1 '07 LV8 incorporates the same hoops-inspired performance features of the 1982 original while adding fresh design details for an updated look.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 720",
     "ProductID": "CI3868-001",
     "SalePrice": 15995,
@@ -577,13 +546,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-f8af9df8-a5f5-439d-ab41-51104d1cfb47/air-max-720-shoe-Mj6TKz.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-e20ba649-ca60-437e-a5b1-ac7a6284fcdc/air-max-720-shoe-Mj6TKz.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max Dia",
-    "ProductID": "CJ0636-100",
-    "SalePrice": 8995,
-    "Description": "Designed specifically for a woman's foot, the Nike Air Max Dia delivers a lifted look and airy aesthetic. The minimal upper modernises the silhouette, while the Max Air unit is amplified even further by an exaggerated midsole for a boost of style.",
-    "Images": ""
   },
   {
     "ProductName": "Air Jordan 1 Mid SE",
@@ -632,13 +594,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-d8c19e1d-f6fe-48c3-b9fb-5089edcff9d4/sb-shane-skate-shoe-mQcf7z.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-55de4fa0-b038-42ce-81eb-07e628d67d33/sb-shane-skate-shoe-mQcf7z.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr. TF",
-    "ProductID": "AT8000-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr. TF is built for fast-paced play. A synthetic upper wraps your foot for streamlined speed, while rubber studs give you the traction you need on artificial surfaces.",
-    "Images": ""
   },
   {
     "ProductName": "Air Jordan 1 Mid",
@@ -724,13 +679,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-6e2cc253-2226-4940-b913-c20fe583017e/free-rn-flyknit-3-2020-running-shoe-Nn61BT.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-a54f9379-4388-45b7-a974-3c9aaa8343dc/free-rn-flyknit-3-2020-running-shoe-Nn61BT.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr IC",
-    "ProductID": "AT7998-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr IC Shoe has a low-profile Dynamic Fit collar and synthetic material that wraps your foot for streamlined speed.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Mercurial Vapor 13 Elite Neymar Jr. FG",
@@ -948,13 +896,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy Neymar Jr. TF",
-    "ProductID": "AT7995-104",
-    "SalePrice": 7995,
-    "Description": "The soft upper of the Nike Mercurial Vapor 13 Academy Neymar Jr. TF wraps your foot for a second-skin fit, while the rubber outsole helps super-charge traction on artificial turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 2090",
     "ProductID": "BV9977-101",
     "SalePrice": 11995,
@@ -1055,13 +996,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/f0787522-9b3e-4d04-b56e-d1f5ef7f4485/air-max-90-shoe-ZJmChh.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/de07e896-eeac-4a36-934b-a6dd25ccb426/air-max-90-shoe-ZJmChh.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Superfly 7 Elite SE FG",
-    "ProductID": "CT1099-093",
-    "SalePrice": 24995,
-    "Description": "Everyone starts somewhere and Kylian Mbappé started on the pitches in Bondy. With green and gold details celebrating his home district, the Nike Mercurial Superfly 7 Elite SE FG pays tribute to greatness. A streamlined upper and Nike Aerotrak zone combine for fast-paced play to blow past the competition.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Epic Phantom React A.I.R. Cody Hudson",
@@ -1241,13 +1175,6 @@
     ]
   },
   {
-    "ProductName": "Nike Blazer Low",
-    "ProductID": "AJ9515-001",
-    "SalePrice": 6995,
-    "Description": "The Nike Blazer Low Men's Shoe refines the old-school basketball icon with smooth, genuine leather.",
-    "Images": ""
-  },
-  {
     "ProductName": "Zoom LeBron 3 QS",
     "ProductID": "AO2434-101",
     "SalePrice": 14995,
@@ -1354,20 +1281,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/lu1mt1c2ycyb0pivlhms/free-rn-flyknit-3-running-shoe-vVqwz6.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/nadkmmxtqlwqlrbqbusr/free-rn-flyknit-3-running-shoe-vVqwz6.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike ISPA Joyride Envelope",
-    "ProductID": "BV4584-001",
-    "SalePrice": 13597,
-    "Description": "Utilising the latest innovations and Nike's ISPA project—which touts a philosophy of improvise, scavenge, protect and adapt—the Nike ISPA Joyride Envelope delivers a futuristic shoe built for taking on the elements. Innovative details provide easy on and off and help support you in wet or warm conditions.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Mercurial Superfly 7 Elite SE FG",
-    "ProductID": "CD6721-808",
-    "SalePrice": 22995,
-    "Description": "Building on the 360-degree Flyknit innovation of the 6, the Nike Mercurial Superfly 7 Elite SE FG adds a Nike Aerowtrac zone to the forefoot and a slightly stiffer chassis to help super-charge traction. An insole with NikeGrip technology provides maximum interior traction underfoot and lightweight cushioning.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Phantom Venom Academy FG",
@@ -1551,13 +1464,6 @@
     ]
   },
   {
-    "ProductName": "Kyrie 5 x Bandulu",
-    "ProductID": "CK5836-100",
-    "SalePrice": 8797,
-    "Description": "Designed in collaboration with Pat Peltier, the mind behind up-cycled vintage label Bandulu, the Kyrie 5 x Bandulu explores process, approach and technique. The brand's signature paint splatters give the shoe an expression that speaks to Kyrie's creativity and dedication to his craft—on and off the court.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max Impact",
     "ProductID": "CI1396-600",
     "SalePrice": 7995,
@@ -1725,13 +1631,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/s1h4y2rmtghc4ohqcxtd/air-max-90-shoe-mnCmVT.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/omm1rdzklqul1swwnxy9/air-max-90-shoe-mnCmVT.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Free RN 5.0 2020",
-    "ProductID": "CI9921-001",
-    "SalePrice": 7995,
-    "Description": "The Nike Free RN 5.0 2020 is the latest leap forwards in the evolution of the Free. Secure lacing mixes with a seamless design for a snug, flexible fit. Lighter and closer to the ground than previous versions, it gives you a \"barefoot\" feel for your shorter runs.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Phantom Vision Academy Dynamic Fit TF",
@@ -1918,13 +1817,6 @@
     ]
   },
   {
-    "ProductName": "Air Jordan 12 Retro",
-    "ProductID": "130690-017",
-    "SalePrice": 15995,
-    "Description": "An all-time favourite among players and sneakerheads, the Air Jordan 12 Retro features full-length Zoom Air cushioning and full-grain leather styled with distinct radial stitch lines.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 270 React",
     "ProductID": "CT1264-101",
     "SalePrice": 12995,
@@ -2051,13 +1943,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/a28bb770-a8aa-44d7-8626-d3c3aa2863b4/mx-720-818-shoe-FQ8wHf.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/00ce06bd-da01-40f4-95ce-6de600d53c03/mx-720-818-shoe-FQ8wHf.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike React Element 55",
-    "ProductID": "BQ2728-012",
-    "SalePrice": 11995,
-    "Description": "The Nike React Element 55 Women's Shoe borrows design lines from heritage Nike runners like the Internationalist, adds reflective graphics and then places it all on Nike React technology.",
-    "Images": ""
   },
   {
     "ProductName": "Nike SB Charge Slip Premium",
@@ -2433,13 +2318,6 @@
     ]
   },
   {
-    "ProductName": "Nike Legend React 2",
-    "ProductID": "AT1369-103",
-    "SalePrice": 7995,
-    "Description": "The Nike Legend React 2 features breathable mesh in the upper and a full-length foam midsole. It's made for runners who are ready to go the distance in comfort.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Metcon 5",
     "ProductID": "AQ1189-009",
     "SalePrice": 10995,
@@ -2573,13 +2451,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/nyo6udetp6n7borvgz0q/m2k-tekno-shoe-H0pjTb.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/non4bcqqrzszco1npz5h/m2k-tekno-shoe-H0pjTb.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike React Kenny 55",
-    "ProductID": "CJ3312-001",
-    "SalePrice": 12995,
-    "Description": "The Nike React Kenny 55 lets you rep the classic and the cutting edge at once. The lines are borrowed from OG Nike running shoes like the Internationalist, rooting you to sneaker heritage, while responsive React cushioning adds modern comfort that feels unbelievably soft. Its 2-tone marble print speaks to the duality of the real world. 1 part yin, 1 part yang. Everything in perfect balance.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air VaporMax 2019",
@@ -2808,20 +2679,6 @@
     ]
   },
   {
-    "ProductName": "Nike Phantom Vision Club Dynamic Fit FG",
-    "ProductID": "AJ6959-717",
-    "SalePrice": 4497,
-    "Description": "The Nike Phantom Vision Club Dynamic Fit FG brings the fierce precision of street play to the pitch. A foot-hugging Dynamic Fit collar combines with targeted texture for precision to create a boot for the finishers, the providers and the battlers of tomorrow's game.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Air Monarch IV",
-    "ProductID": "415445-102",
-    "SalePrice": 5295,
-    "Description": "The Nike Air Monarch IV Lifestyle/Gym Shoe delivers lightweight cushioning and durable support with a Phylon midsole and a leather upper. Flex grooves provide natural flexibility with every step.",
-    "Images": ""
-  },
-  {
     "ProductName": "Zoom Freak 1",
     "ProductID": "BQ5422-200",
     "SalePrice": 9995,
@@ -2866,13 +2723,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/w4vkgrtxkgblijlp5zf9/air-jordan-1-low-shoe-6Q1tFM.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/rp3airm6aw8pxjacsxff/air-jordan-1-low-shoe-6Q1tFM.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max 95 Print",
-    "ProductID": "AQ0925-002",
-    "SalePrice": 16995,
-    "Description": "The Nike Air Max 95 made its mark as the first shoe to include visible Nike Air cushioning in the forefoot. The Nike Air Max 95 Print Men's Shoe energises the iconic design with updated materials in a variety of colours and textures.",
-    "Images": ""
   },
   {
     "ProductName": "Nike P-6000",
@@ -3099,13 +2949,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Superfly 7 Academy MDS TF",
-    "ProductID": "BQ5435-703",
-    "SalePrice": 8995,
-    "Description": "Dream of speed and play fast in the Nike Mercurial Superfly 7 Academy MDS TF. The soft upper wraps your foot for a second-skin fit, while the rubber sole helps supercharge traction on turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Pegasus 36 FlyEase (Extra Wide)",
     "ProductID": "BV0612-001",
     "SalePrice": 9995,
@@ -3268,13 +3111,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Max 90/1",
-    "ProductID": "AJ7695-100",
-    "SalePrice": 14995,
-    "Description": "Featuring lightweight cushioning, the Nike Air Max 90/1 Men's Shoe updates the classic design lines of the 1990 original with modern details while maintaining the signature look.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 98",
     "ProductID": "640744-016",
     "SalePrice": 10197,
@@ -3319,13 +3155,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/3e5c3b5d-46c9-4181-828e-10a4bdaed6ff/air-max-90-shoe-FWBh22.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/b1b06631-7be9-4187-a23a-7f6ca4a3b837/air-max-90-shoe-FWBh22.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max 270 React",
-    "ProductID": "CI3866-100",
-    "SalePrice": 12995,
-    "Description": "The eye-catching Max Air unit and full Nike React foam midsole deliver unrivalled, all-day comfort. It's soft, minimal collar contours to the heel for an amazing fit.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max 1 Premium",
@@ -3549,20 +3378,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr. MG",
-    "ProductID": "AT7967-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr. MG wraps your foot for streamlined speed. A versatile multi-ground plate provides traction on natural- and artificial-grass surfaces.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr. TF",
-    "ProductID": "AT8000-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr. TF is built for fast-paced play. A synthetic upper wraps your foot for streamlined speed, while rubber studs give you the traction you need on artificial surfaces.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Mercurial Vapor 13 Elite Neymar Jr. FG",
     "ProductID": "AT7898-104",
     "SalePrice": 22995,
@@ -3580,13 +3395,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-a3ced895-a7af-4cf6-86c4-ffa0ac028748/mercurial-vapor-13-elite-neymar-jr-fg-football-boot-cQlM6G.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-49dbbc3e-a7cf-42b6-84a7-2cb2d4baabc9/mercurial-vapor-13-elite-neymar-jr-fg-football-boot-cQlM6G.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Academy Neymar Jr. TF",
-    "ProductID": "AT7995-104",
-    "SalePrice": 7995,
-    "Description": "The soft upper of the Nike Mercurial Vapor 13 Academy Neymar Jr. TF wraps your foot for a second-skin fit, while the rubber outsole helps super-charge traction on artificial turf.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Mercurial Vapor 13 Academy Neymar Jr. MG",
@@ -3622,13 +3430,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-7fce63d8-e14d-401d-8250-ccefd02098c6/lebron-17-basketball-shoe-JqmdXg.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-7c9cc99f-c573-4b22-9bfb-59135db1983d/lebron-17-basketball-shoe-JqmdXg.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Benassi",
-    "ProductID": "343881-412",
-    "SalePrice": 2495,
-    "Description": "The Nike Benassi Women's Slide features a lined upper with a bold logo for plush comfort and an athletic look. A foam midsole and outsole provide lightweight impact protection.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max Dia Icon Clash",
@@ -3839,13 +3640,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/d0934cb2-6fd7-4768-adf1-ce328699c6b9/kyrie-flytrap-3-ep-basketball-shoe-0qb5vw.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/397b36cf-645b-4276-861e-7026d361270a/kyrie-flytrap-3-ep-basketball-shoe-0qb5vw.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr IC",
-    "ProductID": "AT7998-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr IC Shoe has a low-profile Dynamic Fit collar and synthetic material that wraps your foot for streamlined speed.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max Alpha Savage",
@@ -4143,13 +3937,6 @@
     ]
   },
   {
-    "ProductName": "Nike Zoom KD11 EP",
-    "ProductID": "AO2605-600",
-    "SalePrice": 14995,
-    "Description": "Kevin Durant is one of the most versatile and unpredictable players in the NBA. There's almost nothing he can't do—and his Nike Zoom KD11 EP Basketball Shoe is designed to keep up. It has an all-new cushioning combination and a light yet strong Flyknit upper to help keep him going, day in and day out.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike SB Blazer Low XT",
     "ProductID": "864348-019",
     "SalePrice": 6397,
@@ -4377,13 +4164,6 @@
     ]
   },
   {
-    "ProductName": "Nike SB Check",
-    "ProductID": "705265-006",
-    "SalePrice": 5495,
-    "Description": "Crafted from soft suede, the Nike SB Check is reinforced in key areas for the durability you need to skate all day long.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Free RN Flyknit 3.0 2020",
     "ProductID": "CJ0266-001",
     "SalePrice": 10995,
@@ -4534,13 +4314,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Max 1 Print",
-    "ProductID": "AQ0927-100",
-    "SalePrice": 12995,
-    "Description": "The Nike Air Max 1 gave the world its first glimpse of Nike Air cushioning back in 1987. This edition, the Nike Air Max 1 Print Men's Shoe, elevates the classic design with new accents, colours and materials.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 97 SE",
     "ProductID": "AQ4126-100",
     "SalePrice": 12797,
@@ -4567,13 +4340,6 @@
       "https://c.static-nike.com/a/images/t_PDP_1728_v1/m8ie2wxdb622l855oqw4/nikecourt-air-zoom-resistance-hard-court-tennis-shoe-gvgEEn.jpg",
       "https://c.static-nike.com/a/images/t_PDP_1728_v1/ns2f8xwxftceciwoj8sb/nikecourt-air-zoom-resistance-hard-court-tennis-shoe-gvgEEn.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Phantom Venom Club IC",
-    "ProductID": "AO0578-717",
-    "SalePrice": 3497,
-    "Description": "The Nike Phantom Venom Club IC is engineered for powerful, precise strikes that win games. A microtexture on the soft synthetic upper helps provide control, while the rubber sole gives you the traction needed to unleash at any moment.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Benassi JDI SE",
@@ -4638,13 +4404,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-fe51eac3-c67e-4a4c-a533-d1fb3a59aea4/air-vapormax-360-shoe-mvKqJ2.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-38ebfcbf-1da0-42d1-947b-258fd147c431/air-vapormax-360-shoe-mvKqJ2.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Solarsoft",
-    "ProductID": "488161-602",
-    "SalePrice": 1595,
-    "Description": "Made with soft, pliable foam infused with grooves for superb airflow, the Nike Solarsoft Women's Flip Flop is a must-have in warm weather.",
-    "Images": ""
   },
   {
     "ProductName": "Air Jordan 11 Retro Low",
@@ -4953,13 +4712,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy MDS MG",
-    "ProductID": "CJ1292-401",
-    "SalePrice": 5247,
-    "Description": "Dream of speed and play fast in the Nike Mercurial Vapor 13 Academy MDS MG. A streamlined upper combines with a specialised soleplate for high-speed play and supercharged traction.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Mercurial Vapor 13 Elite SE FG",
     "ProductID": "CD6720-808",
     "SalePrice": 21995,
@@ -5005,13 +4757,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/e74b4a7a-f9df-425a-8a1f-3fb42e896acf/mx-720-818-shoe-2WZpnW.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/d3da3786-b8d4-4c34-aeca-dca8c06959b1/mx-720-818-shoe-2WZpnW.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Club Neymar Jr. MG",
-    "ProductID": "AT7967-104",
-    "SalePrice": 5495,
-    "Description": "The Nike Mercurial Vapor 13 Club Neymar Jr. MG wraps your foot for streamlined speed. A versatile multi-ground plate provides traction on natural- and artificial-grass surfaces.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Streak Lite",
@@ -5268,13 +5013,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy MDS TF",
-    "ProductID": "CJ1306-401",
-    "SalePrice": 5247,
-    "Description": "Dream of speed and play fast in the Nike Mercurial Vapor 13 Academy MDS TF. The soft upper wraps your foot for a second-skin fit, while the rubber sole helps supercharge traction on turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "Jordan 'Why Not?' Zer0.2 SE",
     "ProductID": "CW6565-900",
     "SalePrice": 11995,
@@ -5386,20 +5124,6 @@
     ]
   },
   {
-    "ProductName": "Jordan Proto-Lyte",
-    "ProductID": "AT3381-008",
-    "SalePrice": 6397,
-    "Description": "Featuring soft foam cushioning and lightweight, woven fabric in the upper, the Jordan Proto-Lyte is made for all-day, bouncy comfort.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Mercurial Superfly 7 Academy TF",
-    "ProductID": "AT7978-414",
-    "SalePrice": 5947,
-    "Description": "The soft upper of the Nike Mercurial Superfly 7 Academy TF Shoe wraps your foot for a second-skin fit, while the rubber outsole helps supercharge traction on turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike x Hawkins High Cortez",
     "ProductID": "CJ6106-100",
     "SalePrice": 9995,
@@ -5500,13 +5224,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Max 270 Flyknit",
-    "ProductID": "AO1023-005",
-    "SalePrice": 15995,
-    "Description": "Feel the Air, both above and below, with the Nike Air Max 270 Flyknit Men's Shoe. It features Nike's biggest heel Air unit yet, plus an ultra-breathable Flyknit upper that helps keep you cool when the temperatures rise. Classic colour combinations nod to iconic Air Max models of the past, delivering a modern, streamlined look that's rooted in Nike sneaker heritage.",
-    "Images": ""
-  },
-  {
     "ProductName": "Air Jordan 13 Retro Chinese New Year",
     "ProductID": "CW4409-100",
     "SalePrice": 19995,
@@ -5589,13 +5306,6 @@
     ]
   },
   {
-    "ProductName": "Air Jordan 14 Retro",
-    "ProductID": "487471-003",
-    "SalePrice": 14397,
-    "Description": "The Air Jordan 14 Retro has class, comfort and the singular look of the original, with heritage-inspired colours, full-grain leather and responsive Zoom Air cushioning.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Force 1 Type-2",
     "ProductID": "CT2584-100",
     "SalePrice": 11995,
@@ -5675,13 +5385,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/kqgvhbxexlf8aconyl26/tiempo-legend-8-club-ic-indoor-court-football-shoe-f5nCdV.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/mkfc3dqj95t3v3il0u4y/tiempo-legend-8-club-ic-indoor-court-football-shoe-f5nCdV.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Flex TR 9",
-    "ProductID": "AQ7491-008",
-    "SalePrice": 5495,
-    "Description": "Designed for low-impact workouts and circuit training, the Nike Flex TR 9 pairs a breathable mesh and synthetic upper with a supportive platform designed for flexibility and traction.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Epic Phantom React",
@@ -5794,14 +5497,7 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/tkxiop1aybqgpa7hlukn/signal-d-ms-shoe-G9PgG0.jpg"
     ]
   },
-  {
-    "ProductName": "Nike Air Max 720 (OBJ)",
-    "ProductID": "CK2531-001",
-    "SalePrice": 13597,
-    "Description": "Disrupt the atmosphere and let your light shine in the Nike Air Max 720 (OBJ), featuring Nike's tallest Air unit yet. Its colours take inspiration from the natural world, a counterpoint to the shoe's futuristic look.",
-    "Images": ""
-  },
-  {
+   {
     "ProductName": "Nike Vandalised LX",
     "ProductID": "BQ3611-100",
     "SalePrice": 8797,
@@ -5952,13 +5648,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-1b898737-573f-4e5b-a1b6-2b1e04e80788/air-max-dia-winter-shoe-CLbqnv.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/q5cyakxui53rl6z8oelf/air-max-dia-winter-shoe-CLbqnv.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Mercurial Superfly 7 Elite SE FG",
-    "ProductID": "CD6721-808",
-    "SalePrice": 22995,
-    "Description": "Building on the 360-degree Flyknit innovation of the 6, the Nike Mercurial Superfly 7 Elite SE FG adds a Nike Aerowtrac zone to the forefoot and a slightly stiffer chassis to help super-charge traction. An insole with NikeGrip technology provides maximum interior traction underfoot and lightweight cushioning.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Zoom Pegasus Turbo 2",
@@ -6208,13 +5897,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Force 1 React",
-    "ProductID": "CD4366-002",
-    "SalePrice": 9995,
-    "Description": "Refresh your look and step into a new AF-1 world with the Nike Air Force 1 React. It fuses modern design with iconic b-ball style for a big, bold look. The oversized Swoosh, large \"AIR\" on the midsole and new sole pattern let you express your modern world while Nike React technology adds exceptional underfoot comfort.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 90",
     "ProductID": "CI5646-200",
     "SalePrice": 9597,
@@ -6320,21 +6002,7 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/mttfmhcapb4rnjxuvm0f/air-max-tailwind-iv-shoe-WbnlNc.jpg"
     ]
   },
-  {
-    "ProductName": "Nike Potential 3",
-    "ProductID": "844127-108",
-    "SalePrice": 4495,
-    "Description": "The Nike Potential 3 Unisex Cricket Shoe delivers lightweight cushioning and superb grip on the field with a Phylon midsole and rubber outsole.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Mercurial Vapor 13 Academy IC",
-    "ProductID": "AT7993-414",
-    "SalePrice": 5247,
-    "Description": "The soft upper of the Nike Mercurial Vapor 13 Academy IC wraps your foot for a second-skin fit, while the rubber outsole helps supercharge traction on the court or street.",
-    "Images": ""
-  },
-  {
+ {
     "ProductName": "Nike x Olivia Kim Air Max 98",
     "ProductID": "CK3309-001",
     "SalePrice": 11197,
@@ -6353,14 +6021,7 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/js7p1kszolt2cjh3psln/olivia-kim-air-max-98-shoe-6VQX51.jpg"
     ]
   },
-  {
-    "ProductName": "NikeCourt Royale",
-    "ProductID": "749747-010",
-    "SalePrice": 3597,
-    "Description": "Taking inspiration from the archives, the NikeCourt Royale Men's Shoe brings retro tennis style in a modern package for everyday comfort.",
-    "Images": ""
-  },
-  {
+   {
     "ProductName": "Nike Air Huarache",
     "ProductID": "634835-108",
     "SalePrice": 8995,
@@ -6499,13 +6160,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/jh6reovam9b46yxagds3/air-force-1-07-shoe-4hDbSc.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/qvrze3u4vqnlqaqb2pze/air-force-1-07-shoe-4hDbSc.jpg"
     ]
-  },
-  {
-    "ProductName": "Air Jordan 12 Retro",
-    "ProductID": "130690-017",
-    "SalePrice": 15995,
-    "Description": "An all-time favourite among players and sneakerheads, the Air Jordan 12 Retro features full-length Zoom Air cushioning and full-grain leather styled with distinct radial stitch lines.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max 98 LX",
@@ -6702,13 +6356,6 @@
     ]
   },
   {
-    "ProductName": "Nike Benassi JDI Floral",
-    "ProductID": "618919-031",
-    "SalePrice": 2397,
-    "Description": "The Nike Benassi JDI Floral Women's Slide is designed with a textured footbed and a lightweight foam midsole/outsole for a soothing, plush feel.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Phantom Vision 2 Club Dynamic Fit MG",
     "ProductID": "CD4159-606",
     "SalePrice": 5995,
@@ -6726,13 +6373,6 @@
     ]
   },
   {
-    "ProductName": "Nike Potential 3",
-    "ProductID": "844127-108",
-    "SalePrice": 4495,
-    "Description": "The Nike Potential 3 Unisex Cricket Shoe delivers lightweight cushioning and superb grip on the field with a Phylon midsole and rubber outsole.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Epic React Flyknit 2",
     "ProductID": "BQ8927-102",
     "SalePrice": 10397,
@@ -6745,13 +6385,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/j8nznsux1z5atx6f3bcu/epic-react-flyknit-2-running-shoe-Jhl3Kb.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/pveglaredpj5hge1iglo/epic-react-flyknit-2-running-shoe-Jhl3Kb.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Phantom Vision Club Dynamic Fit FG",
-    "ProductID": "AJ6959-717",
-    "SalePrice": 4497,
-    "Description": "The Nike Phantom Vision Club Dynamic Fit FG brings the fierce precision of street play to the pitch. A foot-hugging Dynamic Fit collar combines with targeted texture for precision to create a boot for the finishers, the providers and the battlers of tomorrow's game.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max 97",
@@ -6934,13 +6567,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/a9221f15-c925-402f-8c67-40b02b8f55cc/mercurial-superfly-7-elite-fg-football-boot-7tfMF4.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/a4bdb887-24c5-40a5-8794-1a48f9c427c5/mercurial-superfly-7-elite-fg-football-boot-7tfMF4.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max 90 Essential",
-    "ProductID": "AJ1285-101",
-    "SalePrice": 8995,
-    "Description": "The Nike Air Max 90 Essential Men's Shoe keeps the classic design lines of the 1990 original and the cushioning that made it famous.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Zoom Pegasus 36 Premium Rise",
@@ -7231,13 +6857,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy TF",
-    "ProductID": "AT7996-414",
-    "SalePrice": 5247,
-    "Description": "The soft upper of the Nike Mercurial Vapor 13 Academy TF Shoe wraps your foot for a second-skin fit, while the rubber outsole helps super-charge traction on turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike SFB Gen 2 20cm (approx.)",
     "ProductID": "922474-001",
     "SalePrice": 13995,
@@ -7250,13 +6869,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/oyzlmuxyivqnfshmd6yb/sfb-gen-2-20cm-tactical-boot-QpCknd.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/woyzzdd0phrvqvzdopxu/sfb-gen-2-20cm-tactical-boot-QpCknd.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max Dia",
-    "ProductID": "CI3898-200",
-    "SalePrice": 8995,
-    "Description": "Designed specifically for a woman's foot, the Nike Air Max Dia delivers a lifted look, an airy aesthetic and a sleek shape. The minimal upper modernises the look, while the Max Air unit, surrounded by clear TPU, is amplified even further by an exaggerated midsole for a boost of style.",
-    "Images": ""
   },
   {
     "ProductName": "Nike SB Alleyoop",
@@ -7313,20 +6925,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/w4vkgrtxkgblijlp5zf9/air-jordan-1-low-shoe-6Q1tFM.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/rp3airm6aw8pxjacsxff/air-jordan-1-low-shoe-6Q1tFM.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Air Max Bella TR 2",
-    "ProductID": "AQ7492-010",
-    "SalePrice": 6495,
-    "Description": "The Nike Air Max Bella TR 2 is a versatile trainer for weight training and station workouts. It's crafted from breathable fabric and features comfortable cushioning underfoot with a flat outsole for stability during workout sessions.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Air Zoom Terra Kiger 6",
-    "ProductID": "CJ0220-400",
-    "SalePrice": 10995,
-    "Description": "The Nike Air Zoom Terra Kiger 6 is built to take on wet and rocky trails. Lightweight in design, it features a sleeker look with a woven heel for a secure fit and feel.",
-    "Images": ""
   },
   {
     "ProductName": "Jordan Proto-React Z",
@@ -7689,13 +7287,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy MDS TF",
-    "ProductID": "CJ1306-401",
-    "SalePrice": 5247,
-    "Description": "Dream of speed and play fast in the Nike Mercurial Vapor 13 Academy MDS TF. The soft upper wraps your foot for a second-skin fit, while the rubber sole helps supercharge traction on turf.",
-    "Images": ""
-  },
-  {
     "ProductName": "PG 3 NASA",
     "ProductID": "CI2666-400",
     "SalePrice": 7997,
@@ -7772,13 +7363,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Superfly 7 Elite SE FG",
-    "ProductID": "CT1099-093",
-    "SalePrice": 24995,
-    "Description": "Everyone starts somewhere and Kylian Mbappé started on the pitches in Bondy. With green and gold details celebrating his home district, the Nike Mercurial Superfly 7 Elite SE FG pays tribute to greatness. A streamlined upper and Nike Aerotrak zone combine for fast-paced play to blow past the competition.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Free RN 5.0 AW",
     "ProductID": "BV7775-100",
     "SalePrice": 5397,
@@ -7793,13 +7377,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/b25nogiticdbmahey1yx/free-rn-5-aw-running-shoe-2tbTnx.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/dfnsylhjacfbbmude0jt/free-rn-5-aw-running-shoe-2tbTnx.jpg"
     ]
-  },
-  {
-    "ProductName": "Air Jordan 1 Jester XX Low Laced",
-    "ProductID": "CI7815-602",
-    "SalePrice": 7995,
-    "Description": "The Air Jordan 1 Jester XX Low knows not to take things too seriously, except comfort. A real and synthetic leather upper is supportive where it counts, while the exaggerated midsole adds a little altitude with responsive cushioning.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Metcon 5 Premium",
@@ -7876,20 +7453,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/c2d55041-b944-4b31-81a3-1d0f660b937c/tiempo-legend-8-academy-ic-indoor-court-football-shoe-fdZTh0.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/7ae0a23e-06a2-42ae-9d54-85ad2b628b53/tiempo-legend-8-academy-ic-indoor-court-football-shoe-fdZTh0.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike SB Bruin High",
-    "ProductID": "923112-001",
-    "SalePrice": 5597,
-    "Description": "The first Nike SB shoe designed specifically for women, the Nike SB Bruin High is built for exceptional comfort and board control. With classic Bruin design lines and details, this is a fresh take on a time-honoured shoe.",
-    "Images": ""
-  },
-  {
-    "ProductName": "PG 3",
-    "ProductID": "AO2607-401",
-    "SalePrice": 7197,
-    "Description": "Paul George's moon shot took him from Palmdale to basketball stardom, and now he's heading to new heights with clouds under his feet. Built on an outsole inspired by moon craters, the PG 3 combines sensational traction with responsive Zoom Air cushioning that helps you move seamlessly between offence and defence.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Free TR Ultra",
@@ -8237,13 +7800,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air VaporMax 2019",
-    "ProductID": "AR6632-603",
-    "SalePrice": 9597,
-    "Description": "Designed for running but adopted by the street, the Nike Air VaporMax 2019 features the lightest, most flexible Air Max cushioning to date. A stretch woven material wraps your foot for lightweight support and stability, while an external reinforcement in the heel secures the back of your foot.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Zoom Structure 22",
     "ProductID": "AA1640-002",
     "SalePrice": 9995,
@@ -8494,13 +8050,6 @@
     ]
   },
   {
-    "ProductName": "Nike ZoomX Vista Grind SP",
-    "ProductID": "CT5770-300",
-    "SalePrice": 14995,
-    "Description": "The Nike ZoomX Vista Grind SP is proof of the improbable, bringing you to a bold new place that's rebellious and forward thinking. Recycled foam from the Nike ZoomX family plus lightweight fabric and durable overlays come together to give the shoe a modern look and classic comfort.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Air Max 90",
     "ProductID": "CU3004-176",
     "SalePrice": 9995,
@@ -8612,13 +8161,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/dvl0nmdlvun3ushzy07n/mx-720-818-shoe-zlRc9j.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/j67zw0ipmnuxmg4ma3qv/mx-720-818-shoe-zlRc9j.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Blazer Low LE",
-    "ProductID": "AV9370-001",
-    "SalePrice": 5597,
-    "Description": "The Nike Blazer Low LE refines the old-school basketball icon with updated details.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Zoom Pegasus Turbo 2 Rise",
@@ -8918,13 +8460,6 @@
     ]
   },
   {
-    "ProductName": "PG 3",
-    "ProductID": "AO2607-401",
-    "SalePrice": 7197,
-    "Description": "Paul George's moon shot took him from Palmdale to basketball stardom, and now he's heading to new heights with clouds under his feet. Built on an outsole inspired by moon craters, the PG 3 combines sensational traction with responsive Zoom Air cushioning that helps you move seamlessly between offence and defence.",
-    "Images": ""
-  },
-  {
     "ProductName": "Air Jordan 5 Retro",
     "ProductID": "CN2932-100",
     "SalePrice": 18995,
@@ -8976,14 +8511,7 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/i1-4e082719-ab56-4c9e-a4ed-56f531df627a/mercurial-vapor-13-elite-fg-football-boot-ZjXmK7.jpg"
     ]
   },
-  {
-    "ProductName": "Nike Air Max 720",
-    "ProductID": "AR9293-603",
-    "SalePrice": 9597,
-    "Description": "The Nike Air Max 720 goes bigger than ever before with Nike's tallest Air unit yet, which offers more air underfoot for unimaginable, all-day comfort. Has Air Max gone too far? We hope so.",
-    "Images": ""
-  },
-  {
+   {
     "ProductName": "Nike Zoom KD12",
     "ProductID": "AR4229-003",
     "SalePrice": 12995,
@@ -9218,13 +8746,6 @@
     ]
   },
   {
-    "ProductName": "Nike Air Force 1 '07 SE",
-    "ProductID": "CI3446-001",
-    "SalePrice": 7995,
-    "Description": "The Nike Air Force 1 '07 SE incorporates the same hoops-inspired performance features of the 1982 original while adding details that call to mind the 2000s aesthetic.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Zoom Pegasus Turbo XX",
     "ProductID": "AR4347-600",
     "SalePrice": 13597,
@@ -9399,13 +8920,6 @@
     ]
   },
   {
-    "ProductName": "Nike Mercurial Vapor 13 Academy IC",
-    "ProductID": "AT7993-414",
-    "SalePrice": 5247,
-    "Description": "The soft upper of the Nike Mercurial Vapor 13 Academy IC wraps your foot for a second-skin fit, while the rubber outsole helps supercharge traction on the court or street.",
-    "Images": ""
-  },
-  {
     "ProductName": "Nike Tiempo Legend 8 Academy TF",
     "ProductID": "AT6100-606",
     "SalePrice": 6495,
@@ -9469,20 +8983,6 @@
       "https://static.nike.com/a/images/t_PDP_1728_v1/rcqbjvhuejyv9eqpn1wn/air-jordan-8-retro-shoe-cVHr95.jpg",
       "https://static.nike.com/a/images/t_PDP_1728_v1/dvso9xkfumpgwvih2ptv/air-jordan-8-retro-shoe-cVHr95.jpg"
     ]
-  },
-  {
-    "ProductName": "Nike Phantom Venom Club IC",
-    "ProductID": "AO0578-717",
-    "SalePrice": 3497,
-    "Description": "The Nike Phantom Venom Club IC is engineered for powerful, precise strikes that win games. A microtexture on the soft synthetic upper helps provide control, while the rubber sole gives you the traction needed to unleash at any moment.",
-    "Images": ""
-  },
-  {
-    "ProductName": "Nike Mercurial Superfly 7 Academy TF",
-    "ProductID": "AT7978-414",
-    "SalePrice": 5947,
-    "Description": "The soft upper of the Nike Mercurial Superfly 7 Academy TF Shoe wraps your foot for a second-skin fit, while the rubber outsole helps supercharge traction on turf.",
-    "Images": ""
   },
   {
     "ProductName": "Nike Air Max 98",
