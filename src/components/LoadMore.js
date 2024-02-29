@@ -20,6 +20,8 @@ function LoadMore() {
     setData([...data, ...newData]);
   };
 
+  const disable = data.length === 100;
+
   React.useEffect(() => {
     paginateData();
   }, [startIndex, endIndex]);
@@ -27,7 +29,9 @@ function LoadMore() {
   return (
     <Wrapper>
       <ImageGrid data={data} />
-      <Button onClick={loadMoreData}>Load More</Button>
+      <Button onClick={loadMoreData} disabled={disable}>
+        Load More
+      </Button>
     </Wrapper>
   );
 }
